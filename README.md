@@ -50,7 +50,25 @@ Although I don't understand much yet, the enthusiasm and dedication I put into m
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhueGU0NHg2aTR4dGg1ZjdoaG00Y2JieTR6ZmQ1NWx6bGpkOWozNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="GIF" height="300" width="400" style="margin-top: 20px;">
   </a>
 </div>
+<br>
 
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connect with Me
 
